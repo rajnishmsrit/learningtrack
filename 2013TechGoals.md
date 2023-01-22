@@ -57,9 +57,9 @@
 
 
 # Coding Life
--   []  Try for maximum terminal stuff
--   []  Learn Shell and its command
--   []  Learn create good diagrams 
--   []  UI/UX design theory
--   []  Presentation
--   []  JIRA/Confluence document writing style
+-   [ ]  Try for maximum terminal stuff
+-   [ ]  Learn Shell and its command
+-   [ ]  Learn create good diagrams 
+-   [ ]  UI/UX design theory
+-   [ ]  Presentation
+-   [ ]  JIRA/Confluence document writing style
