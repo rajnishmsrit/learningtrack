@@ -57,6 +57,7 @@
 
 
 # Coding Life
+-   [ ]  Learn writing MD files
 -   [ ]  Try for maximum terminal stuff
 -   [ ]  Learn Shell and its command
 -   [ ]  Learn create good diagrams 
