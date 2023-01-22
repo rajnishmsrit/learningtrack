@@ -1,5 +1,5 @@
 # Goals 2023
--   XState
+- [x] XState
 -   [Figma](https://www.notion.so/Figma-321dbfbe1c0f414bb696f4e5f29232ce)
 
 [GraphQL](https://www.notion.so/GraphQL-1343896bbd1e4ff5aa65e762d8969794)
