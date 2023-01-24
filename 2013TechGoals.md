@@ -1,10 +1,9 @@
 # Goals 2023
 - [ ] XState
-- [ ] [Figma](https://www.notion.so/Figma-321dbfbe1c0f414bb696f4e5f29232ce)
-- [ ] [GraphQL](https://www.notion.so/GraphQL-1343896bbd1e4ff5aa65e762d8969794)
-
-- [ ] [PocketBase](https://www.notion.so/PocketBase-3cefb13862054306be1bc10b4dba0917)
-
+- [ ] Figma
+- [ ] GraphQL
+- [ ] PocketBase
+- [ ] GraphCMS
 - [ ] [Svelte](https://www.notion.so/Svelte-9564add5b726467d8eb905cc353fb374)
 
 - [ ] [Crypto](https://www.notion.so/Crypto-504ead3bf94a4705bc1fd40a86d53478)
