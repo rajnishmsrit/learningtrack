@@ -34,10 +34,10 @@
 - [ ] Shopify Hydrogen
 
 # Coding Life
--	[ ]  Learn writing MD files
--   [ ]  Try for maximum terminal stuff
--   [ ]  Learn Shell and its command
--   [ ]  Learn create good diagrams 
--   [ ]  UI/UX design theory
--   [ ]  Presentation
--   [ ]  JIRA/Confluence document writing style
+-	[x]  Include MD files in your workflow
+- [ ]  Try for maximum terminal stuff
+- [ ]  Learn Shell and its command
+- [ ]  Learn create good diagrams 
+- [ ]  UI/UX design theory
+- [ ]  Presentation
+- [ ]  JIRA/Confluence document writing style
