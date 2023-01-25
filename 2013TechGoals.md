@@ -32,6 +32,7 @@
 - [ ] ChatGPT/Stable Diffusion/ AI
 - [ ] CloudFlare Workers / R2
 - [ ] Shopify Hydrogen
+- [ ] WebRTC
 
 # Coding Life
 -	[x]  Include MD files in your workflow
