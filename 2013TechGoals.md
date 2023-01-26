@@ -35,10 +35,11 @@
 - [ ] WebRTC
 
 # Coding Life
--	[x]  Include MD files in your workflow
+- [x]  Include MD files in your workflow
 - [ ]  Try for maximum terminal stuff
 - [ ]  Learn Shell and its command
 - [ ]  Learn create good diagrams 
 - [ ]  UI/UX design theory
 - [ ]  Presentation
 - [ ]  JIRA/Confluence document writing style
+-	[ ]	 Creating terminal commands for dotfiles
