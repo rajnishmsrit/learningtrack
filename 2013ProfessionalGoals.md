@@ -12,3 +12,4 @@
 - [ ]   Branding
         -   Blog publish and site availaibility
         -   Linktree setup
+- [ ]   Technical Writing by 10th year Work anniversary
